@@ -1,1 +1,36 @@
 /* Place CSS styles here */
+body { 
+color:rgb(0, 0, 0);
+background-color: rgb(77, 75, 75);
+width: 1300px;
+}
+
+img {
+    width: 30%;
+    text-align: center;
+}
+
+h1 {
+    font-size: 200px;
+    text-align: center;
+}
+
+h2 {
+    color: rgb(231, 152, 5);
+}
+
+p {
+    color: rgb(51, 149, 214);
+    font-weight: 100;
+    font-style: italic;
+}
+
+a {
+    color:rgb(247, 39, 39);
+}
+
+.axolotl_standing
+{
+    border: 4px solid rgb(0, 0, 0)
+
+}
